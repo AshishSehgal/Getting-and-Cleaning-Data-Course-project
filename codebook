@@ -1,5 +1,5 @@
-S.No	Variables		S.No	Variables	
-1	subject	includes the values	2	Activity_Label	merge data of train and test
+S.No	Variables 		       S.No	         Variables	
+1	subject	:--includes the values	2	Activity_Label:--	merge data of train and test
 3	tBodyAcc-mean()-X		4	tBodyAcc-mean()-Y	
 5	tBodyAcc-mean()-Z		6	tBodyAcc-std()-X	
 7	tBodyAcc-std()-Y		8	tBodyAcc-std()-Z	
@@ -28,16 +28,16 @@ S.No	Variables		S.No	Variables
 53	fBodyAccJerk-mean()-Y		54	fBodyAccJerk-mean()-Z	
 55	fBodyAccJerk-std()-X		56	fBodyAccJerk-std()-Y	
 57	fBodyAccJerk-std()-Z		58	fBodyAccJerk-meanFreq()-X	
-59	fBodyAccJerk-meanFreq()-Y		60	fBodyAccJerk-meanFreq()-Z	
+59	fBodyAccJerk-meanFreq()-Y	60	fBodyAccJerk-meanFreq()-Z	
 61	fBodyGyro-mean()-X		62	fBodyGyro-mean()-Y	
 63	fBodyGyro-mean()-Z		64	fBodyGyro-std()-X	
 65	fBodyGyro-std()-Y		66	fBodyGyro-std()-Z	
 67	fBodyGyro-meanFreq()-X		68	fBodyGyro-meanFreq()-Y	
 69	fBodyGyro-meanFreq()-Z		70	fBodyAccMag-mean()	
 71	fBodyAccMag-std()		72	fBodyAccMag-meanFreq()	
-73	fBodyBodyAccJerkMag-mean()		74	fBodyBodyAccJerkMag-std()	
-75	fBodyBodyAccJerkMag-meanFreq()		76	fBodyBodyGyroMag-mean()	
+73	fBodyBodyAccJerkMag-mean()	74	fBodyBodyAccJerkMag-std()	
+75	fBodyBodyAccJerkMag-meanFreq()	76	fBodyBodyGyroMag-mean()	
 77	fBodyBodyGyroMag-std()		78	fBodyBodyGyroMag-meanFreq()	
-79	fBodyBodyGyroJerkMag-mean()		80	fBodyBodyGyroJerkMag-std()	
+79	fBodyBodyGyroJerkMag-mean()	80	fBodyBodyGyroJerkMag-std()	
 81	fBodyBodyGyroJerkMag-meanFreq()				
 
